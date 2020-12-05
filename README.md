@@ -19,7 +19,7 @@ cuDNN version separately.
 
 > `Conda` will take care of everything such as CUDA or cuDNN.
 
-> For example:
+*For example:*
 
 * If you want to use tensorflow1.xx-gpu and tensorflow2x-gpu separately. 
 * For `tensorflow1.xx`

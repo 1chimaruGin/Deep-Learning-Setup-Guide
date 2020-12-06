@@ -111,7 +111,7 @@ $ sudo apt-get purge nvidia-cuda-toolkit or sudo apt-get purge --auto-remove nvi
 
 **Install CUDA**
 
->Download [CUDA toolkit](https://developer.nvidia.com/cuda-toolkit-archivehttps://developer.nvidia.com/cuda-toolkit-archive)
+>Download [CUDA toolkit](https://developer.nvidia.com/cuda-toolkit-archive)
 
 - `$ sudo dpkg -i cuda-repo-ubuntu1804-xx-x-local-xx.x.89-440.33.01_1.0-1_amd64.deb `
 - `$ sudo apt-key add /var/cuda-repo-xx-x-local-xx.x.89-440.sudo dpkg -i cuda-repo-ubuntu1804-xx-x-local-xx.x.89-440.33.01_1.0-1_amd64.deb`

@@ -182,4 +182,4 @@ Max error: 0
                     0.00%     551ns         1     551ns     551ns     551ns  cuDeviceGetUuid
  ```
 
- [Picking up the Threads](/CUDA_Threading.md')
+ [Picking up the Threads](/CUDA_GPU_Threading.md)

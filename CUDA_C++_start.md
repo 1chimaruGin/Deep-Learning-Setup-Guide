@@ -1,6 +1,6 @@
 # CUDA programming with C++
 
-This Note is copy from [Mark Harris's *"An Even Easier Introduction to CUDA"*](https://developer.nvidia.com/blog/even-easier-introduction-cuda/#:~:text=CUDA%20C%2B%2B%20is%20just%20one,parallel%20threads%20running%20on%20GPUs.)
+This MarkDown file is copy from [Mark Harris's *"An Even Easier Introduction to CUDA"*](https://developer.nvidia.com/blog/even-easier-introduction-cuda/#:~:text=CUDA%20C%2B%2B%20is%20just%20one,parallel%20threads%20running%20on%20GPUs.)
 
 ## *Simple program in C++*
 
